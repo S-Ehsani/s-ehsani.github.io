@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
-author_profile: true
-redirect_from:
-  - /resume
+title: "Publications"
+permalink: /publications/
+author_profile: false
 ---
 
 My publication topics is ....
