@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-This page will be updated.
+My publication topics is ....
