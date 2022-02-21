@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in K. N. Toosi University of Technology, 2018
-* M.S. in University of Tehran, 2021
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Mathematics, K. N. Toosi University of Technology, 2012-2018
+* M.S. in Applied Mathematics, University of Tehran, 2018-2021
+* Ph.D in Electrical Engeenring and Computer Sience, Syracuse University, 2022- now
 
 Research Intrest
 ======
@@ -25,5 +25,5 @@ Research Intrest
 Skills
 ======
 * Programming(Python, Matlab)
-
+* Mathematical modeling
 
