@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-My current reseach topics is,...
+This page will be updated.
