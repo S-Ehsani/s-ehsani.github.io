@@ -19,6 +19,7 @@ Research Intrest
 ======
 * Optimization
 * Multicriteria Optimization
+* Mixed-integer optimization
 * Machine Learning
 * Deep Learning
   
